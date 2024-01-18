@@ -1,0 +1,25 @@
+#code {
+    background: #434343;
+    border: 0px;
+    border-radius: 15px;
+    outline-color: #556dff;
+    color: white;
+    padding: 15px 15px 15px; 
+}
+#but {
+    background: #556dff;
+    color: white;
+    padding: 15px 15px 15px;
+    border: 0px;
+    border-radius: 15px;
+}
+.supp {
+    background: #171717;
+    color: white;
+    padding: 15px 15px 15px;
+    border: 0px;
+    border-radius: 15px;
+}
+body {
+    background-size: initial;
+}
