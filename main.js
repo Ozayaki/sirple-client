@@ -6,7 +6,7 @@ const l = document.getElementById('layer');
 but.onclick = function () {
     if (inp.value == "free") {
          l.style.visibility = "hidden";
-         document.body.style.backgroundImage = "url('./imgs/scream.png')";
+         document.body.style.backgroundImage = "url('./scream.png')";
          var audio = document.getElementById('aud')
          audio.play();
     }else {
